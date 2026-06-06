@@ -1,0 +1,21 @@
+{
+  "name": "YouTube Analytics Pro",
+  "short_name": "YT Analytics",
+  "description": "Professional YouTube channel analytics platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#ff0000",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "/icons/apple-touch-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "categories": ["productivity", "utilities", "business"],
+  "screenshots": [],
+  "shortcuts": [
+    { "name": "Compare channels", "url": "/compare" },
+    { "name": "Favorites", "url": "/favorites" },
+    { "name": "Settings", "url": "/settings" }
+  ]
+}
